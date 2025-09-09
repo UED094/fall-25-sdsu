@@ -47,5 +47,3 @@
 ## Build your Tech
 
 - Jack Roemer
-
-nonsense
